@@ -1,0 +1,13 @@
+.clr-input:focus {
+ outline: none;
+}
+
+.clr-input{
+  font-family: 'Titillium Web', sans-serif;
+  letter-spacing: 0.1em;
+}
+
+.g-heading{
+  font-family: 'Gilda Display',
+    serif;;
+}
